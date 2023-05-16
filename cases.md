@@ -1,4 +1,4 @@
-# **Examples of specific test cases for mobile apps:**
+# **Examples of specific test cases for mobile apps**
 
 **1. User Login:**
 
